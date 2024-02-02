@@ -1,0 +1,19 @@
+.products {
+
+
+    display: flex;
+    width: calc( 100% - 30 ) / 4;
+    padding: 30px ;
+
+
+}
+
+.product
+{
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
